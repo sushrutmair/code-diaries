@@ -1,5 +1,6 @@
 # code-diaries
-Fast reference lookups PPT for stuff I worked on
+Fast reference lookups PPT for stuff I worked on.
+
 What is a C0de Diary?
  - For experienced software developers
  - Technical topics condensed into intense slides
